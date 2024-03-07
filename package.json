@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Srichandan09.github.io/investment-calculator",
+  "homepage": "https://Srichandan-09.github.io/investment-calculator",
   "scripts": {
     "dev": "vite",
     "predeploy": "npm run build",
