@@ -8,12 +8,6 @@
   Built with React, this easy-to-use calculator can help you make informed investment decisions and track your progress towards your financial goals. 
 </p>
 
-<h2>🚀 Live Demo</h2>
-
-<p>Check out the React Investment Calculator demo for an intuitive and eye-catching way to calculate your potential investment returns. Start making informed financial decisions today!</p>
-
-**Live Preview** ➡️ <a href="https://srichandan-09.github.io/investment-calculator/" target="_blank" rel="noopener noreferrer">Demo</a>
-
 ## 🛠️ Technologies:
 
 - React
@@ -22,9 +16,15 @@
 - HTML5
 - Vite
 
-<h2>🖼️ Project Screenshots</h2>
+<h2>🚀 Live Demo</h2>
 
-<p>Get a glimpse of the React Investment Calculator project through these captivating screenshots, showcasing its sleek and user-friendly interface.</p>
+<p>Check out the React Investment Calculator demo for an intuitive and eye-catching way to calculate your potential investment returns. Start making informed financial decisions today!</p>
+
+**Live Preview** ➡️ <a href="https://srichandan-09.github.io/investment-calculator/" target="_blank" rel="noopener noreferrer">Demo</a>
+
+<h2>🖼️ Project Screenshot</h2>
+
+<p>Get a glimpse of the React Investment Calculator project through these captivating screenshot, showcasing its sleek and user-friendly interface.</p>
 
 <p align="center">
   <img alt="Tic-Tac-Toe" src="public/Investment-Screenshot.png" width="100%" />
